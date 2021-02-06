@@ -1,0 +1,114 @@
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+.header-container {
+ color: white;
+ background-color: slategrey;
+ padding: 30px 0;
+ display: flex;
+ justify-content: center;
+}
+
+.header {
+ font-size: 40px;
+ border: 2px solid white;
+ width: 500px;
+ display: flex;
+ justify-content: center;
+}
+
+.main-container {
+ color: black;
+ background-color: white;
+ display: flex;
+ justify-content: center;
+}
+
+.main {
+ width: 760px;
+ height: 400px;
+ display: flex;
+ justify-content: space-around;
+ flex-wrap: wrap;
+ flex-direction: row;
+ padding: 10px;
+ align-items: center;
+}
+
+.zoomlogo {
+ width: 150px;
+}
+
+.loftlogo {
+ width: 250px;
+}
+
+.podiumlogo {
+ width: 150px;
+}
+
+.outreachlogo {
+ width: 200px;
+}
+
+.gravylogo {
+ width: 150px;
+}
+
+.gonglogo {
+ width: 150px;
+}
+
+.frontlogo {
+ width: 150px;
+}
+
+.driftlogo {
+ width: 150px;
+}
+
+.clickuplogo {
+ width: 200px;
+}
+
+.calendlylogo {
+ width: 200px;
+}
+
+.linkedinlogo {
+ width: 50px;
+}
+
+.footer {
+ margin-top: 111px;
+ display: flex;
+ justify-content: space-between;
+}
+
+.footer-item {
+ border: 1px solid white;
+ background-color: slategrey;
+ height: 100px;
+ flex: 1;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ font-size: larger;
+ color: white;
+ text-align: center;
+ margin-bottom: 0px;
+}
+
+.linkedinlogo {
+ width: 60px;
+}
+
+.githublogo {
+ width: 60px;
+ padding-top: 12px;
+}
+
+.twitterlogo {
+ width: 60px;
+}
